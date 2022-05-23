@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+}
+
+.container ul {
+  display: flex;
+  flex-direction: column-reverse;
+
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
